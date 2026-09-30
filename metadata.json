@@ -1,0 +1,6 @@
+{
+  "name": "VN-OCR Desktop - Nhận dạng chữ tiếng Việt Offline",
+  "description": "Ứng dụng nhận dạng ký tự quang học (OCR) tiếng Việt hoàn toàn offline trên Windows. Hỗ trợ xử lý hàng loạt ảnh scan, giấy tờ hành chính, chỉnh sửa song song và xuất file Word (.docx) chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
